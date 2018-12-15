@@ -1,0 +1,127 @@
+      .dakuang{
+         width: 158px;
+         height: 35%;   
+         float: left;
+         overflow: hidden;
+         margin: 3%;
+      }
+      .q{
+            background-image: url(../img/1.jpg);
+            background-size: 100%;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid lightcoral;
+      }
+      .w{
+            background-image: url(../img/2.jpg);
+            background-size: 100%;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+
+        }
+      .e{
+         background-image: url(../img/3.jpg);
+         background-size: 100%;
+         width: 150px;
+         height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+   
+        }
+      .r{
+         background-image: url(../img/4.jpg);
+         background-size: 100%;
+         width: 150px;
+         height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+     
+        }
+      .t{
+         background-image: url(../img/5.jpg);
+         background-size: 100%;
+         width: 150px;
+         height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+   
+        }
+      .y{
+         background-image: url(../img/6.jpg);
+         background-size: 100%;
+         width: 150px;
+         height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+   
+        }     
+      .u{
+         background-image: url(../img/7.jpg);
+         background-size: 100%;
+         width: 150px;
+         height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+       
+        }
+      .i{
+         background-image: url(../img/8.jpg);
+         background-size: 100%;
+         width: 150px;
+         height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+                 
+        }
+      .o{         
+            background-image: url(../img/9.jpg);
+            background-size: 100%;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+                 
+        }
+      .p{   
+            background-image: url(../img/10.jpg);
+            background-size: 100%;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+                  
+        }
+      .qw{
+            background-image: url(../img/11.jpg);
+            background-size: 100%;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+                
+        }
+      .qe{  
+            background-image: url(../img/12.jpg);
+            background-size: 100%;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid  lightcoral;
+                  
+         }
+ 
+      .biankuang{
+         border-radius:10px; 
+         overflow: auto;
+         width: 103%;
+         height: 100%; 
+      }
+        
+
+     
+    
+    
+    
